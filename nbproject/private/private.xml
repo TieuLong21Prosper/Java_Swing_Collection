@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Coding_segments/Java/Java%20Swing/ShopSach/src/controller/ChuyenManHinhController.java</file>
+            <file>file:/D:/Coding_segments/Java/Java%20Swing/ShopSach/src/model/ChiTietHoaDon.java</file>
+            <file>file:/D:/Coding_segments/Java/Java%20Swing/ShopSach/src/ublity/ClassTableModel.java</file>
+            <file>file:/D:/Coding_segments/Java/Java%20Swing/ShopSach/src/bean/DanhMucBean.java</file>
+            <file>file:/D:/Coding_segments/Java/Java%20Swing/ShopSach/src/dao/KhachHangDaoImpl.java</file>
+            <file>file:/D:/Coding_segments/Java/Java%20Swing/ShopSach/src/shopsach/KhachHangJFrame.java</file>
+            <file>file:/D:/Coding_segments/Java/Java%20Swing/ShopSach/src/shopsach/Main.java</file>
+            <file>file:/D:/Coding_segments/Java/Java%20Swing/ShopSach/src/shopsach/GioHangJPanel.java</file>
+            <file>file:/D:/Coding_segments/Java/Java%20Swing/ShopSach/src/dao/DBConnect.java</file>
+            <file>file:/D:/Coding_segments/Java/Java%20Swing/ShopSach/src/shopsach/KhachHangJPanel.java</file>
+            <file>file:/D:/Coding_segments/Java/Java%20Swing/ShopSach/src/shopsach/ThongKeJPanel.java</file>
+            <file>file:/D:/Coding_segments/Java/Java%20Swing/ShopSach/src/dao/KhachHangDao.java</file>
+            <file>file:/D:/Coding_segments/Java/Java%20Swing/ShopSach/src/model/HoaDon.java</file>
+            <file>file:/D:/Coding_segments/Java/Java%20Swing/ShopSach/src/shopsach/HoaDonJPanel.java</file>
+            <file>file:/D:/Coding_segments/Java/Java%20Swing/ShopSach/src/service/KhachHangServiceImpl.java</file>
+            <file>file:/D:/Coding_segments/Java/Java%20Swing/ShopSach/src/model/KhachHang.java</file>
+            <file>file:/D:/Coding_segments/Java/Java%20Swing/ShopSach/src/controller/QuanLyKhachHangController.java</file>
+            <file>file:/D:/Coding_segments/Java/Java%20Swing/ShopSach/src/service/KhachHangService.java</file>
+            <file>file:/D:/Coding_segments/Java/Java%20Swing/ShopSach/src/controller/KhachHangController.java</file>
+        </group>
+    </open-files>
+</project-private>
